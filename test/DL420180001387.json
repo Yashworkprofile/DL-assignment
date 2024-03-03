@@ -1,0 +1,33 @@
+{
+ "Driver Details": {
+  "Current Status": "ACTIVE",
+  "Holder's Name": "KARTIKAY BHUTANI",
+  "Date Of Issue": "27-Feb-2018",
+  "Last Transaction At": "ZONAL OFFICE, WEST DELHI, JANAKPURI",
+  "Old / New DL No.": "NA"
+ },
+ "Validity": {
+  "Non-Transport": {
+   "from": " 27-Feb-2018",
+   "to": " 26-Feb-2038"
+  },
+  "Transport": {
+   "from": " NA",
+   "to": " NA"
+  },
+  "Hazardous Valid Till": "NA",
+  "Hill Valid Till": "NA"
+ },
+ "Class Of Vehicle": [
+  {
+   "COV Category": "NT",
+   "Class Of Vehicle": "LMV",
+   "COV Issue Date": "27-Feb-2018"
+  },
+  {
+   "COV Category": "NT",
+   "Class Of Vehicle": "MCWG",
+   "COV Issue Date": "27-Feb-2018"
+  }
+ ]
+}
